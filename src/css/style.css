@@ -53,7 +53,7 @@
 }
 
 .html {
-    background: #e91e63;
+    background: orangered;
 }
 
 .css {
@@ -61,7 +61,7 @@
 }
 
 .javascript {
-    background: #ffeb3b;
+    background: yellow;
 }
 
 .php {
@@ -70,4 +70,24 @@
 
 .react {
     background: skyblue;
+}
+
+.html span {
+    border: 1px solid orangered;
+}
+
+.css span {
+    border: 1px solid blue;
+}
+
+.javascript span {
+    border: 1px solid yellow;
+}
+
+.php span {
+    border: 1px solid slateblue;
+}
+
+.react span {
+    border: 1px solid skyblue;
 }
