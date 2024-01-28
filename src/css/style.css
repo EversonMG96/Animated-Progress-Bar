@@ -16,10 +16,18 @@
     justify-content: center;
 }
 
-.skills {
-
+.skills h2 {
+    font-weight: 400;
+    letter-spacing: 2px;
+    margin: 40px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 14px;
 }
 
 .progress-bar {
-    
+    background: #959595;
+    width: 600px;
+    height: 10px;
+    border-radius: 5px;
 }
