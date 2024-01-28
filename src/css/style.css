@@ -114,3 +114,9 @@
         width: 65%;
     }
 }
+
+@keyframes php {
+    100% {
+        width: 54%;
+    }
+}
