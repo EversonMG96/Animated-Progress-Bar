@@ -31,3 +31,10 @@
     height: 10px;
     border-radius: 5px;
 }
+
+.progress-bar div {
+    height: 10px;
+    border-radius: 5px;
+    width: 50%;
+    background: red;
+}
