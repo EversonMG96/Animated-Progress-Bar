@@ -35,7 +35,7 @@
 .progress-bar div {
     height: 10px;
     border-radius: 5px;
-    width: 50%;
+    width: 0%;
 }
 
 .progress-bar div span {
@@ -54,22 +54,27 @@
 
 .html {
     background: orangered;
+    animation: html 1s linear forwards;
 }
 
 .css {
     background: blue;
+    animation: css 1s linear forwards;
 }
 
 .javascript {
     background: yellow;
+    animation: javascript 1s linear forwards;
 }
 
 .php {
     background: slateblue;
+    animation: php 1s linear forwards;
 }
 
 .react {
     background: skyblue;
+    animation: react 1s linear forwards;
 }
 
 .html span {
